@@ -22,7 +22,7 @@ const Projects = () => {
             id: 3,
             title: 'Sign Language Translator',
             category: 'AI / Machine Learning',
-            image: '/sign-language.png',
+            image: 'https://images.unsplash.com/photo-1589254065878-42c014d074b8?q=80&w=2670&auto=format&fit=crop',
             link: '#'
         },
         {
