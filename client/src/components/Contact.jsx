@@ -48,10 +48,10 @@ const Contact = () => {
                         <div>
                             <h4 className="font-bold uppercase tracking-widest mb-6 opacity-70">Socials</h4>
                             <ul className="space-y-4 font-medium">
-                                <li><a href="#" className="hover:text-accent transition-colors">LinkedIn</a></li>
+                                <li><a href="https://github.com/patelhashilkumar/" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">GitHub</a></li>
+                                <li><a href="https://linkedin.com/in/hashil-patel" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">LinkedIn</a></li>
                                 <li><a href="#" className="hover:text-accent transition-colors">Instagram</a></li>
                                 <li><a href="#" className="hover:text-accent transition-colors">Twitter</a></li>
-                                <li><a href="#" className="hover:text-accent transition-colors">Behance</a></li>
                             </ul>
                         </div>
 
